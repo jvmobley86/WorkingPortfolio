@@ -1,0 +1,23 @@
+.main {
+    background:  #203152;
+    padding: 75px;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+
+}
+#search {
+    background: url(https://www.freeiconspng.com/uploads/search-icon-png-1.png) no-repeat right;
+    
+}
+#main-container{
+    border: solid 1px lightgray;
+    padding: 20px;
+}
+h3 {
+    background: rgb(240, 239, 239);
+    padding: 20px;
+}
